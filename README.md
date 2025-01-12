@@ -42,7 +42,7 @@ Welcome to my corner of GitHub! I'm a **Full Stack Developer**, a **Cybersecurit
 
 - **LinkedIn**: [Prashant Bhatt](https://www.linkedin.com/in/prashant-bhatt500/)
 - **Medium**: [Prashant Bhatt’s Articles](https://medium.com/@bhatt.prashant2018)
-- **Email**: [prashant.bhatt@example.com](mailto:bhatt.prashant2018@gmail.com)
+- **Email**: [bhatt.prashant2018@gmail.com](mailto:bhatt.prashant2018@gmail.com)
 
 ---
 
