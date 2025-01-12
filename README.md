@@ -9,7 +9,7 @@ Welcome to my corner of GitHub! I'm a **Full Stack Developer**, a **Cybersecurit
 - **Languages**: Python, JavaScript, Java, C++
 - **Web Development**: React, Node.js, Django, Flask
 - **Databases**: MongoDB, PostgreSQL, MySQL
-- **Cybersecurity Tools**: Linux, Nmap, Nessus, Burp Suite, Metasploit, Wireshark
+- **Cybersecurity Tools**: Linux, Nmap, Nessus, Burp Suite, Metasploit, Wireshark, Hydra, Gobuster etc.
 - **AI/ML Frameworks**: TensorFlow, PyTorch, OpenCV
 - **Cloud & DevOps**: Docker, AWS, GitHub Actions, CI/CD
 
