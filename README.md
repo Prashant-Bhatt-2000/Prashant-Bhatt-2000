@@ -62,4 +62,4 @@ When I'm not coding or solving CTFs, I enjoy reading about the latest trends in 
 
 ---
 
-#### **Thanks for visiting my GitHub profile!** I will put this
+#### **Thanks for visiting my GitHub profile!**
