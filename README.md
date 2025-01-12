@@ -1,65 +1,67 @@
-# Hi, I'm Prashant Bhatt 👋
+# Hey there! I'm **Prashant Bhatt** 👋
 
-Welcome to my GitHub profile! I'm a passionate **Full Stack Developer**, **Cybersecurity Enthusiast**, and I have a keen interest in **AI**, **Machine Learning**, and **Computer Vision**. I love exploring and working on challenges that intersect technology and security.
+Welcome to my corner of GitHub! I'm a **Full Stack Developer**, a **Cybersecurity Enthusiast**, and a tech explorer with a passion for **AI**, **Machine Learning**, and **Computer Vision**. I thrive on solving complex challenges and building secure, cutting-edge applications that bridge technology and security.
 
 ---
 
-### 🛠️ **Technologies & Tools I Use**
+### 🛠️ **What I Work With**
 
 - **Languages**: Python, JavaScript, Java, C++
-- **Web Development**: React, Node.js, Express.js, Django, Flask
-- **Database**: MongoDB, PostgreSQL, MySQL
-- **Cybersecurity**: Kali Linux, Burp Suite, Metasploit, Wireshark
-- **AI/ML**: TensorFlow, PyTorch, OpenCV
-- **DevOps & Cloud**: Docker, AWS, GitHub Actions, CI/CD
+- **Web Development**: React, Node.js, Django, Flask
+- **Databases**: MongoDB, PostgreSQL, MySQL
+- **Cybersecurity Tools**: Linux, Nmap, Nessus, Burp Suite, Metasploit, Wireshark
+- **AI/ML Frameworks**: TensorFlow, PyTorch, OpenCV
+- **Cloud & DevOps**: Docker, AWS, GitHub Actions, CI/CD
 
 ---
 
-### 🔐 **Cybersecurity Focus Areas**
+### 🔐 **Cybersecurity Expertise**
 - Penetration Testing
-- Web Application Security
+- Web App Security
 - Cryptography & Network Security
 - Reverse Engineering & Forensics
-- Capture the Flag (CTF) Challenges
+- CTF (Capture the Flag) Challenges
 
 ---
 
-### 🌱 **What I'm Currently Learning**
-- **Machine Learning & AI**: Deep Learning, Reinforcement Learning
-- **Advanced Web Application Security**
+### 🌱 **Currently Exploring**
+- **AI & Machine Learning**: Deep Learning, Reinforcement Learning
+- **Advanced Web Security**
 - **Computer Vision**: Object Detection, Image Recognition
 
 ---
 
-### 📈 **Some Stats About Me**
-- **30+ CTF Challenges Completed** on TryHackMe & Hack The Box
-- **Ranked in the Top 7%** on TryHackMe
-- **GitHub Contributions**: Over 150 contributions this year
+### 📈 **A Glimpse of My Achievements**
+- **30+ CTF Challenges Solved** on TryHackMe & Hack The Box
+- **Top 7%** Rank on TryHackMe
+- **Ranked #836** on Hack The Box
 
 ---
 
-### 📫 **Connect with Me**
+### 📫 **Let’s Connect!**
 
-- **LinkedIn**: [Prashant Bhatt](https://www.linkedin.com/in/prashantbhatt)
-- **Medium**: [Prashant Bhatt's Articles](https://medium.com/@prashantbhatt.2000)
-- **Email**: [prashant.bhatt@example.com](mailto:prashant.bhatt@example.com)
-- **Website**: [PrashantBhatt.com](https://prashantbhatt.com)
+- **LinkedIn**: [Prashant Bhatt](https://www.linkedin.com/in/prashant-bhatt500/)
+- **Medium**: [Prashant Bhatt’s Articles](https://medium.com/@bhatt.prashant2018)
+- **Email**: [prashant.bhatt@example.com](mailto:bhatt.prashant2018@gmail.com)
 
 ---
 
 ### 🚀 **Featured Projects**
 
-#### [CTF Write-ups](https://github.com/Prashant-Bhatt-2000/CTF-Writeups)
-A collection of solutions and write-ups for various cybersecurity challenges I've solved on TryHackMe and Hack The Box.
+- **[CTF Write-ups](https://github.com/Prashant-Bhatt-2000/CTF-Writeups)**  
+  A collection of detailed solutions to cybersecurity challenges I've tackled on TryHackMe & Hack The Box.
 
-#### [HackersHub](https://hackershub.com)
-A social platform for tech enthusiasts to discuss and collaborate on cybersecurity topics.
+- **[FileShare API's](https://github.com/Prashant-Bhatt-2000/FileShare_APIs)**
+  A robust and secure file sharing API that empowers OPS users to upload files while granting client users access to download and list files. Featuring user authentication,   email verification, and role-based authorization for enhanced data security.
+
+- **[Vendor Management API's](https://github.com/Prashant-Bhatt-2000/Vendor-Management-APIs)**
+   A robust and secured Vendor Management APIs with Django rest framework, djangorestframework-simplejwt and postgres
 
 ---
 
 ### ⚡ **Fun Fact**
-When I'm not coding or solving CTFs, I enjoy reading about the latest trends in AI and working on open-source projects!
+When I’m not coding or cracking CTFs, you’ll find me diving into the latest in AI, reading up on tech trends, or contributing to open-source projects. Always learning, always growing! 🌱
 
 ---
 
-#### **Thanks for visiting my GitHub profile!**
+#### **Thanks for stopping by!** Feel free to explore my work and reach out if you’d like to collaborate or chat about tech!
