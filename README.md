@@ -28,7 +28,7 @@ Welcome to my corner of GitHub! I'm a **Full Stack Developer**, a **Cybersecurit
 - **AI & Machine Learning**: Deep Learning, Reinforcement Learning
 - **Advanced Web Security**
 - **Computer Vision**: Object Detection, Image Recognition
-
+- **BlockChain**: Solidity, Rust, Python
 ---
 
 ### 📈 **A Glimpse of My Achievements**
