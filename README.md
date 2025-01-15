@@ -1,6 +1,6 @@
 # Hey there! I'm **Prashant Bhatt** 👋
 
-Welcome to my corner of GitHub! I'm a Full Stack Developer and a **Security Researcher** with a passion for building secure, cutting-edge applications. With a deep interest in **AI**, **Machine Learning**, and **Computer Vision**, I thrive on solving complex challenges and bridging the gap between technology and security.
+Welcome to my corner of GitHub! I'm a **Full Stack Developer** and a **Security Researcher** with a passion for building secure, cutting-edge applications. With a deep interest in **AI**, **Machine Learning**, and **Computer Vision**, I thrive on solving complex challenges and bridging the gap between technology and security.
 
 ---
 
