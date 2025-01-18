@@ -33,8 +33,8 @@ Welcome to my corner of GitHub! I'm a **Full Stack Developer** and a **Security 
 
 ### 📈 **A Glimpse of My Achievements**
 - **50+ CTF Challenges Solved** on TryHackMe & Hack The Box combined ( all levels)
-- **Top 7%** Rank on TryHackMe
-- **Ranked #836** on Hack The Box
+- **Top 7%** Rank on [TryHackMe](https://tryhackme.com/r/p/Dr.Parad0x)
+- **Ranked #836** on [Hack The Box](https://app.hackthebox.com/profile/activity/727807)
 
 ---
 
